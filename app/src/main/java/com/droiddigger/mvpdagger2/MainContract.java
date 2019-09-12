@@ -1,8 +1,6 @@
 package com.droiddigger.mvpdagger2;
 
-/**
- * Created by anupamchugh on 11/08/17.
- */
+
 
 public interface MainContract {
 
